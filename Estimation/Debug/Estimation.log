@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\nnnbb\source\repos\Estimation\Estimation\Source.cpp(48,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\nnnbb\source\repos\Estimation\Estimation\Source.cpp(180,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\nnnbb\source\repos\Estimation\Estimation\Source.cpp(936,32): warning C4244: 'argument': conversion from 'short' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+  Estimation.vcxproj -> C:\Users\nnnbb\source\repos\Estimation\Debug\Estimation.exe
