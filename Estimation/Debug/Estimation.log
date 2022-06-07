@@ -1,0 +1,3 @@
+﻿  MainMenuClass.cpp
+D:\Projects\Estimation\Estimation\MainMenuClass.cpp(32,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Estimation.vcxproj -> D:\Projects\Estimation\Debug\Estimation.exe
